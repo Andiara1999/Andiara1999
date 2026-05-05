@@ -50,10 +50,3 @@ integração de sistemas e banco de dados.
 
 [![Email](https://img.shields.io/badge/Email-andiara20014%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andiara20014@gmail.com)
 
----
-
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andiara1999&layout=compact&theme=default)
-
-![Andiara's GitHub stats](https://github-readme-stats.vercel.app/api?username=andiara1999&show_icons=true&theme=default)
