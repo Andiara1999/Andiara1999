@@ -14,7 +14,7 @@ integração de sistemas e banco de dados.
 ## 🚀 About me
 
 - 💻 Full Stack Developer
-- ⚙️ Experiência com React, Vue.js, JavaScript, PHP e Laravel
+- ⚙️ Experiência com React, Laravel, PHP, APIs REST, SQL e PostgreSQL
 - 🔗 Desenvolvimento e integração de APIs REST
 - 🗄️ Banco de dados, SQL e modelagem de dados
 - 📌 Foco em código organizado, soluções escaláveis e melhoria contínua
