@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andiara Ramos</h1>
 
 <h3 align="center">
-Full Stack Developer | React • Vue.js • JavaScript • PHP • Laravel • SQL
+Full Stack Developer | React • Laravel • PHP • APIs REST • SQL • PostgreSQL 
 </h3>
 
 <p align="center">
